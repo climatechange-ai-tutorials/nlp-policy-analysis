@@ -36,7 +36,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Spokoyny, D., & Callaghan, M. (2023). NLP Models for Climate Policy Analysis [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11625034
+Spokoyny, D., & Callaghan, M. (2023). NLP Models for Climate Policy Analysis [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11639065
 
 ### BibTeX
 
@@ -47,7 +47,7 @@ Spokoyny, D., & Callaghan, M. (2023). NLP Models for Climate Policy Analysis [Tu
   year={2023},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11625034},
+  doi={https://doi.org/10.5281/zenodo.11639065},
   booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/nlp-policy-analysis}}
 }
