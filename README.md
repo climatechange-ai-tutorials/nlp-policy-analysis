@@ -6,7 +6,7 @@ Author(s):
 * Max Callaghan, Mercator Research Institute on Global Commons and Climate - Berlin, callaghan@mcc-berlin.net
 * Tobias Schimanski, University of Zurich, tobias.schimanski@df.uzh.ch
 
-Originally presented at Climate Change AI Summer School 2023
+Originally presented at Climate Change AI Summer School 2022
 
 ## Access this tutorial
 
@@ -37,7 +37,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Spokoyny, D., Callaghan, M, & Schimanski, T. (2024). NLP Models for Climate Policy Analysis [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11639065
+Spokoyny, D., Callaghan, M, & Schimanski, T. (2024). NLP Models for Climate Policy Analysis [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.12533572
 
 ### BibTeX
 
@@ -48,7 +48,7 @@ Spokoyny, D., Callaghan, M, & Schimanski, T. (2024). NLP Models for Climate Poli
   year={2024},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11639065},
+  doi={https://doi.org/10.5281/zenodo.12533572},
   booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/nlp-policy-analysis}}
 }
