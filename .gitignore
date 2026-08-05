@@ -1,0 +1,5 @@
+.venv
+.tmp_trainer
+tmp_trainer/
+__pycache__/
+.ipynb_checkpoints/
